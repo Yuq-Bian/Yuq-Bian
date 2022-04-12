@@ -4,7 +4,7 @@
 
 <img src="https://cdn.pixabay.com/photo/2014/06/13/00/16/figure-367946_960_720.png" height="200"><img src="https://cdn.pixabay.com/photo/2018/09/24/08/31/pixel-cells-3699334_960_720.png" height="200"><br>
 
-- 👀 I’m interested in anything Tech. I'm a quick leaner and with a growth mindset. I'm always trying to learn something new.<br><br>
+- 👀 I’m interested in anything Tech. I'm a quick learner and with a growth mindset. I'm always trying to learn something new.<br><br>
 - 🌱 I’m currently learning <br>
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)<br><br>
