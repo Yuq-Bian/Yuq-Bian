@@ -1,10 +1,13 @@
 # 😊 Hi there!
 
-- 👋 Hi, Welcome to my github. I’m **Yuqing**. I currently live in 🇺🇸Seattle, USA. I am in the first year of my CS 🎓master's program at Northeastern University, USA. <br>I love 👩‍💻coding. I play 🎹piano and 🥁drumset, love to play computer & board games, enjoy food and traveling.
-- 👀 I’m interested in anything Tech. I'm a quick leaner and with a growth mindset. I'm always trying to learn something new.
-- 🌱 I’m currently learning <br> 
+- 👋 Hi, Welcome to my github. I’m **Yuqing**. I currently live in 🇺🇸Seattle, USA. I am in the first year of my CS 🎓master's program at Northeastern University, USA. <br>I love 👩‍💻coding. I play 🎹piano and 🥁drumset, love to play computer & board games, enjoy food and traveling.<br>
+
+<img src="https://cdn.pixabay.com/photo/2014/06/13/00/16/figure-367946_960_720.png" height="200"><img src="https://cdn.pixabay.com/photo/2018/09/24/08/31/pixel-cells-3699334_960_720.png" height="200"><br>
+
+- 👀 I’m interested in anything Tech. I'm a quick leaner and with a growth mindset. I'm always trying to learn something new.<br><br>
+- 🌱 I’m currently learning <br>
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) 
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)<br><br>
 - 🔧 Things I work with <br> 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
@@ -24,10 +27,10 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)<br><br>
 - 📫 How to reach me <br>
 <a href="https://www.linkedin.com/in/yuqing-bian/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white)</a>
-<a href="byq0716@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=plastic&logo=gmail&logoColor=white)</a>
+<a href="mailto: byq0716@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=plastic&logo=gmail&logoColor=white)</a>
 <a href="https://github.com/Yuq-Bian">![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white)</a>
 ![WeChat](https://img.shields.io/badge/WeChat-07C160?style=plastic&logo=wechat&logoColor=white)
 
