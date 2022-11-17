@@ -1,6 +1,6 @@
 # 😊 Hi there!
 
-- 👋 Hi, Welcome to my github. I’m **Yuqing**. I currently live in 🇺🇸Seattle, USA. I'm in the first year of my CS 🎓master's program at Northeastern University, USA. 
+- 👋 Hi, Welcome to my github. I’m **Yuqing**. I currently live in 🇺🇸Seattle, USA. I'm in the second year of my CS 🎓master's program at Northeastern University, USA. 
 - <img src="https://blogger.googleusercontent.com/img/a/AVvXsEjRdTyNe1cI73L3wvoofNZfebGS0KKNa3r6_n8WP1oa0kaRur0TifwPJwsGQEj-930Yz8WCX-ExrZJB2iNGTOas4IRhIQMbLTU2emCVq1XPm7bafp5bowC-NyV1XeAAVbz7pwyO07C7R9Eq76s3_Qkr6gYqX0xxN1RbPomgLQgU_kzcOoGwuUwRI5TQ=s512" height="50"> I'm GSoC 2022 contributor.
 - I love 👩‍💻coding. I play 🎹piano and 🥁drumset, love to play computer & board games, enjoy food and traveling.<br>
 
