@@ -3,7 +3,7 @@
 - 👋 Hi, Welcome to my github. I’m **Yuqing**. I currently live in Seattle. I'm in the second year of my CS 🎓master's program at Northeastern University, USA. 
 - I'm a **GSoC** 2022 contributor.
 - I have interned at **Datadog**.
-- I am an upcoming intern at **Amazon**.
+- I have interned at **Amazon**.
 - I love 👩‍💻coding. I play 🎹piano and 🥁drumset, love to play computer & board games, enjoy food and traveling.<br>
 
 <img src="https://cdn.pixabay.com/photo/2014/06/13/00/16/figure-367946_960_720.png" height="200"><img src="https://cdn.pixabay.com/photo/2018/09/24/08/31/pixel-cells-3699334_960_720.png" height="200"><br>
